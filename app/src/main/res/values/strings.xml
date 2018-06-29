@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="submit">SUBMIT</string>
+    <string name="e_mail">e-mail</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="sign_up_form">Sign up form</string>
+    <string name="phone">Phone</string>
+    <string name="state">State</string>
+</resources>
